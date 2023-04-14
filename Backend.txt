@@ -1,0 +1,5 @@
+Explain the difference between a JOIN and a UNION operation in SQL. (Difficulty rating: 7/10)
+How would you optimize the performance of a database with millions of records and a high number of concurrent users? (Difficulty rating: 9/10)
+Can you walk me through the process of deploying a web application to a production environment? (Difficulty rating: 8/10)
+Explain the concept of asynchronous programming and provide an example of how it could be used in a backend application. (Difficulty rating: 7/10)
+How would you handle a situation where a production server goes down unexpectedly, and what steps would you take to prevent such an issue from happening again in the future? (Difficulty rating: 9/10)
